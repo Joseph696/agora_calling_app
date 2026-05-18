@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791460811551",
+    "project_id": "agora-calling-app-c9257",
+    "storage_bucket": "agora-calling-app-c9257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791460811551:android:4a89644ac78788353f162a",
+        "android_client_info": {
+          "package_name": "com.example.agora_calling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71P_q6j4DBfm00Wl0b2J3dOR4aRaD-a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791460811551:android:c064618fe1de1cab3f162a",
+        "android_client_info": {
+          "package_name": "com.example.agora_receiver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71P_q6j4DBfm00Wl0b2J3dOR4aRaD-a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

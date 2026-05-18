@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "agora-calling-app-c9257",
+          "appId": "1:791460811551:android:4a89644ac78788353f162a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "agora-calling-app-c9257",
+          "configurations": {
+            "android": "1:791460811551:android:4a89644ac78788353f162a",
+            "ios": "1:791460811551:ios:838c85cb6619af553f162a",
+            "macos": "1:791460811551:ios:838c85cb6619af553f162a",
+            "web": "1:791460811551:web:77657dc7db4091fa3f162a"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
